@@ -1,0 +1,5 @@
+time_steps,accuracy_mean_pct,accuracy_std_pct,train_time_mean_s,train_time_std_s,avg_output_spikes_mean,avg_output_spikes_std
+5,91.48,0.24,12.22,0.60,5.90,0.18
+10,93.62,0.19,13.92,0.54,13.02,0.36
+20,93.83,0.15,19.58,0.08,22.05,2.60
+50,93.45,0.19,41.59,0.22,18.42,0.99
